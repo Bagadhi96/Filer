@@ -1,0 +1,11 @@
+p{
+    display: none;
+}
+.notifyMand{
+    display: block;
+    color: red;
+}
+
+.star{
+    display: none;
+}
